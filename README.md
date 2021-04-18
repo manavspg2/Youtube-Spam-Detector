@@ -8,7 +8,7 @@ The YouTube data was taken from the following artists :
 4) Eminem
 5) Shakira
 
- The data was pre-processed using a text classifier. Naive Bayes classfier algorithm was used in the main application along with flask framework. The framework used was flask as   it more flexible to use in such applications.
+ The data was pre-processed using a text classifier. Naive Bayes classfier algorithm was used in the main application along with flask framework. The framework used was flask as   it more flexible in use for small-scale applications.
 
 
 
